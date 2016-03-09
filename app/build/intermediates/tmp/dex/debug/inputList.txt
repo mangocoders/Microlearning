@@ -1,0 +1,7 @@
+C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\classes\debug
+C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-eaa117543020fc7f7a1a65efce0ad16fcb39af86.jar
+C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\classes-7a8632117d104663b19322686a1438532e4ee65a.jar
+C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f9e076d481699ca86df29bfabef503c85f9ed44f.jar
+C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\classes-0238eeb072acf1f0790e1b9854a1b5d2e951331a.jar
+C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\classes-c3e041f7613baffd2d99cc3e8eb92f13b8f15eae.jar
+C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\classes-c2ea25a11618f918376cbd8397f37237580d7782.jar

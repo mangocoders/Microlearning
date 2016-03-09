@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\classes-7a8632117d104663b19322686a1438532e4ee65a.jar" />
+    </item>
+    <item
+        jar="C:\Users\shandro\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-eaa117543020fc7f7a1a65efce0ad16fcb39af86.jar" />
+    </item>
+    <item
+        jar="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f9e076d481699ca86df29bfabef503c85f9ed44f.jar" />
+    </item>
+    <item
+        jar="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\classes-c3e041f7613baffd2d99cc3e8eb92f13b8f15eae.jar" />
+    </item>
+    <item
+        jar="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\classes-c2ea25a11618f918376cbd8397f37237580d7782.jar" />
+    </item>
+    <item
+        jar="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\shandro\AndroidStudioProjects\MicroLearning\app\build\intermediates\pre-dexed\debug\classes-0238eeb072acf1f0790e1b9854a1b5d2e951331a.jar" />
+    </item>
+
+</items>

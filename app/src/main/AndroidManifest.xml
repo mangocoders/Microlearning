@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shandro.microlearning" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".ValueActivity"
+            android:label="@string/title_activity_value" >
+        </activity>
+        <activity
+            android:name=".ValuesDetail"
+            android:label="@string/title_activity_values_detail" >
+        </activity>
+        <activity
+            android:name=".ListValue"
+            android:label="@string/title_activity_list_value" >
+        </activity>
+        <activity
+            android:name=".CardActivity"
+            android:label="@string/title_activity_card" >
+        </activity>
+        <activity
+            android:name=".MyActivity"
+            android:label="@string/title_activity_my" >
+        </activity>
+        <activity
+            android:name=".DetailActivity"
+            android:label="@string/title_activity_detail" >
+        </activity>
+        <activity
+            android:name=".QuizActivity"
+            android:label="@string/title_activity_quiz" >
+        </activity>
+        <activity
+            android:name=".Sudoko"
+            android:label="@string/title_activity_sudoko" >
+        </activity>
+        <activity
+            android:name=".Result"
+            android:label="@string/title_activity_result" >
+        </activity>
+        <activity
+            android:name=".TestChooser"
+            android:label="@string/title_activity_test_chooser" >
+        </activity>
+        <activity
+            android:name=".LeaderBoard"
+            android:label="@string/title_activity_leader_board" >
+        </activity>
+        <activity
+            android:name=".LoginPrompt"
+            android:label="@string/title_activity_login_prompt" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Question1"
+            android:label="@string/title_activity_question1" >
+        </activity>
+        <activity
+            android:name=".Question2"
+            android:label="@string/title_activity_question2" >
+        </activity>
+        <activity
+            android:name=".OptionsActivity"
+            android:label="@string/title_activity_options" >
+        </activity>
+        <activity
+            android:name=".Info"
+            android:label="@string/title_activity_info" >
+        </activity>
+    </application>
+
+</manifest>
